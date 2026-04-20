@@ -1,5 +1,5 @@
-# react
-react fundamentals: This repo will show react fundamentals include react components, props, states, router etc.  
+# react with Parcel
+react fundamentals: This repo will show react fundamentals include react components, props, event handling, states, router etc.  
 
 # Environment installation
 1. Open a console and enter the following command to create a new project folder:

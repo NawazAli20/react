@@ -28,6 +28,7 @@ npm install react react-dom
     "start": "parcel src/index.html --open"
   },
 ...
+
 6. Create a src project folder, and add the index.html, index.js, and App.js files shown in the animation below to the src folder.
 
 7. Start the project. A new browser tab should automatically load index.html:

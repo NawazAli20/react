@@ -24,8 +24,9 @@ npm install react react-dom
 ...
   "main": "index.js",   <-- REMOVE THIS LINE
 ...
+
   "scripts": {
-    "start": "parcel src/index.html --open"
+    "start": "parcel src/index.html --open"  <-- Add THIS LINE
   },
 ...
 

@@ -26,7 +26,7 @@ npm install react react-dom
 ...
 
   "scripts": {
-    "start": "parcel src/index.html --open"  <-- Add THIS LINE
+    "start": "parcel src/index.html --open -p 8080"    <-- Add THIS LINE
   },
 ...
 
